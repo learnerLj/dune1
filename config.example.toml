@@ -1,0 +1,9 @@
+[dune]
+active = "main"
+
+[dune.accounts.main]
+api_key = "replace-with-an-active-authorized-key"
+
+[dune.accounts.backup]
+api_key = "replace-with-another-active-authorized-key"
+proxy_url = "http://host:port"
